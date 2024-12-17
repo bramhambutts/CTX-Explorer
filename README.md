@@ -11,3 +11,4 @@ Create bounding box: shift + left-click (hold shift until bounding box finished)
 
 # Warnings
 The data required to run this program (the list of CTX images from the NASA archives) has not been uploaded to GitHub due to size constraints.
+While functional, this project was undertaken in 2019, and has not been updated since. There are plans to create a more up to date version with better functionality.
